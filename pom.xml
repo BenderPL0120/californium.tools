@@ -42,7 +42,7 @@
 	</repositories>
 
 	<modules>
-		<module>cf-browser</module>
+		<module>cf-server</module>
 		<module>cf-client</module>
 		<module>cf-rd</module>
 		<module>cf-jmeter-plugin</module>
